@@ -1,0 +1,1 @@
+This is a simple Reddit API visualization app, meant to be run locally using Flask, Nginx and uWSGI.  
